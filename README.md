@@ -1,5 +1,5 @@
 
-# Dice Game
+# Dice Game 💸
 
 <p align="center">
   <img src="https://media.giphy.com/media/iTCf2Vby9fMJgKt5Zg/giphy.gif" />

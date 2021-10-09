@@ -1,20 +1,22 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
-# Auto Layout 
+# Dice Game
 
-## Our Goal
+<p align="center">
+  <img src="https://media.giphy.com/media/iTCf2Vby9fMJgKt5Zg/giphy.gif" />
+</p>
 
-At the moment, our app only looks good on the canvas dimension that we’ve selected. If you run the app on screens with different aspect ratios or try to turn it to landscape, the designs will look broken. 
+## This is a Dice app, which the main feature is the randomization of the dices and it has auto layout.
+## What I've learned in this lesson: 
 
-Auto Layout allows us to set rules as to how we want our views to be displayed. Because mobile screens have different resolutions and sizes, we need these rules to tell the iPhone/iPad how it should layout all the elements in the storyboard onto the display. These rules allow our UI elements to be resized and positioned so that no matter which screen they are displayed on, they always look as the designer intended.
-
-
-## What you will create
-
-Although Dicee is already pretty dicey, we get into problems when we try to rotate the screen to landscape or if we have a screen size that is not the same as the canvas. In this module, we’ll learn how to fix this and make our apps look exactly the way we want.
-
-## What you will learn
-
+* How to clone an existing Xcode project from GitHub.
+* Create an app with behaviour and functionality.
+* Create links between the Interface Builder files and code using IBActions and IBOutlets.
+* Get familiar with the Xcode code editor.
+* Learn to use comments to annotate code.
+* Understand and use Swift constants and variables.
+* Understand and use collection types such as Swift arrays.
+* Test and debug your app with the Xcode console.
+* Learn about randomisation and how to generate random numbers in Swift.
 * How to add constraints and understanding how Auto Layout works.
 * How to Pin and Align elements.
 * How to create containers to configure advanced layouts.
@@ -22,10 +24,5 @@ Although Dicee is already pretty dicey, we get into problems when we try to rota
 * Understanding what Xcode needs in order to correctly layout a design.
 * How to use Stack Views to create complex interfaces.
 
-
-
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
+## This is a project from the iOS development bootcamp, taught by Angela Yu :)
 
